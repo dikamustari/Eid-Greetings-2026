@@ -1,6 +1,7 @@
 / / README \ \
 
-- User wajib memasukkan nama pada halaman index.html, hal ini bertujuan supaya pada halaman launch.html (halaman yang akan menampilkan kartu ucapan) akan menampilkan nama dari user yang mengakses link.
-- User wajib memasukkan email pada halaman index.html, sehingga ketika website menampilkan kartu ucapan , user akan mendapatkan email berupa auto reply sebagai bukti bahwa admin pernah mengucapkan Selamat Hari Raya Idul Fitri pada tahun 2026.
+- Users are required to enter their name on the `index.html` page; this ensures that the `launch.html` page (where the greeting card is displayed) will show the name of the person accessing the link.
 
-Terima Kasih.
+- Users are also required to enter their email address on the `index.html` page. This will trigger an automated email response when the greeting card is displayed, serving as confirmation that the administrator has sent an Eid al-Fitr greeting for the year 2026.
+
+Thank you.
